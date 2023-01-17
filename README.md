@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trevor-gibby
 - 👀 I’m interested in building beautiful, responsive web applications using a variety of stacks and frameworks.
-- 🌱 I’m currently learning react.js, ruby on rails, migrating monolithic applications to the cloud.
+- 🌱 I’m currently learning Next.js and migrating monolithic applications to the cloud through AWS.
 - 💞️ I’m looking to collaborate on front-end JavaScript or CSS libraries that implement interesting effects to enhance UI/UX.
 - 📫 How to reach me trevor.gibby@gmail.com
 

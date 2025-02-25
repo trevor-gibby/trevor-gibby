@@ -1,5 +1,6 @@
 Hi, I’m @trevor-gibby
-I'm a full-stack web developer and software development team lead with a passion for building beautiful and intertesting web applications.
+
+- I'm a full-stack web developer and software development team lead with a passion for building beautiful and intertesting web applications.
 
 
 <!---

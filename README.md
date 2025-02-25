@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @trevor-gibby
-- 👀 I’m interested in building beautiful, responsive web applications using a variety of stacks and frameworks.
-- 🌱 I’m currently learning Next.js and migrating monolithic applications to the cloud through AWS.
+<!--
+Hi, I’m @trevor-gibby
+I'm a full-stack web developer and software development team lead with a passion for building beautiful and intertesting web applications.
+I’m currently building 
 - 💞️ I’m looking to collaborate on front-end JavaScript or CSS libraries that implement interesting effects to enhance UI/UX.
 - 📫 How to reach me trevor.gibby@gmail.com
+-->
 
 <!---
 trevor-gibby/trevor-gibby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

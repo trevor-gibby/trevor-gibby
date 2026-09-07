@@ -71,7 +71,7 @@ The platform models operational workflows for organizations managing multi-locat
 
 It's an independent, in-progress prototype and a chance to revisit an older product idea with several more years of production engineering experience behind me.
 
-### Capabuild
+### Capaxle
 
 Coming soon!
 

@@ -73,7 +73,25 @@ It's an independent, in-progress prototype and a chance to revisit an older prod
 
 ### Capaxle
 
-Coming soon!
+I'm building an open-source TypeScript backend framework around **capabilities**: application operations defined once and exposed through HTTP APIs, CLI commands, and MCP tools for AI agents.
+
+The goal is to keep business logic, typed contracts, and access policies together while giving different callers ways to use the same operation.
+
+**Current stack:**
+
+`TypeScript` · `Node.js` · `Zod`
+
+The published alpha includes:
+
+- Capability definitions with typed input and output schemas
+- A shared runtime for validation and policy enforcement
+- HTTP, CLI, and MCP adapters
+- Generated OpenAPI contracts, JSON Schemas, and documentation
+- Generated TypeScript SDKs
+
+It's an independent project exploring reusable backend architecture and how applications can serve both traditional clients and AI agents. Alpha packages are available on npm, with APIs continuing to evolve.
+
+[Repository](https://github.com/trevor-gibby/capaxle) · [Getting started](https://github.com/trevor-gibby/capaxle#getting-started)
 
 ## Technologies
 
